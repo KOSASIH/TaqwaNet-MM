@@ -1,5 +1,5 @@
 # Core dependencies
-Flask==2.2.2                     # Web framework for building the application
+Flask==3.1.3                     # Web framework for building the application
 Flask-RESTful==0.3.9             # Extension for building REST APIs
 Flask-SQLAlchemy==2.5.1          # ORM for database interactions
 Flask-Migrate==3.1.0             # Database migration tool
