@@ -157,7 +157,7 @@ To run the tests, use the following command:
    ```
 
 ## Contributing
-We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
+We welcome contributions! Please read our [CONTRIBUTING.md](https://github.com/KOSASIH/.github/blob/master/CONTRIBUTING.md#contributing-to-kosasih-project) for details on our code of conduct, and the process for submitting pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
