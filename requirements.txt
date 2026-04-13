@@ -22,7 +22,7 @@ numpy==1.21.4                    # Numerical computing
 nltk==3.6.3                      # Natural Language Toolkit for text processing
 
 # Testing
-pytest==6.2.5                    # Testing framework
+pytest==9.0.3                    # Testing framework
 pytest-cov==2.12.1               # Coverage reporting for tests
 Flask-Testing==0.8.1             # Testing utilities for Flask applications
 
