@@ -27,7 +27,7 @@ pytest-cov==2.12.1               # Coverage reporting for tests
 Flask-Testing==0.8.1             # Testing utilities for Flask applications
 
 # Security
-python-dotenv==0.19.2            # Load environment variables from .env file
+python-dotenv==1.2.2            # Load environment variables from .env file
 cryptography==36.0.1             # Cryptographic recipes and primitives
 
 # Other utilities
